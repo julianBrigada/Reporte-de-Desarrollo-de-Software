@@ -1,0 +1,19 @@
+{
+    "clients": [
+        {
+            "marca": "cisco",
+            "tecnologias_c": "servidores de alto rendimiento",
+            "tecnologias_especiales": "Firewall NG"
+        },
+        {
+            "marca": "huawei",
+            "tecnologias_c": "servidores de alto rendimiento",
+            "tecnologias_especiales": "Soluciones SD-WAN"
+        },
+        {
+            "marca": "hp",
+            "tecnologias_c": "almacenamiento en la nube",
+            "tecnologias_especiales": "Corteza XDR"
+        }
+    ]
+}
